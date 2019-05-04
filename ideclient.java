@@ -268,7 +268,6 @@ public class ideclient extends JFrame
                         .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 287, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addContainerGap())
         );
-
         pack();
     }
  

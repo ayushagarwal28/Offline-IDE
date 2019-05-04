@@ -65,5 +65,4 @@ public class client_socket
         ois.close();
         
     }
-    
 }
