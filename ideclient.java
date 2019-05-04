@@ -281,5 +281,3 @@ public class ideclient extends JFrame
         });
     }
 }
-
-
